@@ -1,0 +1,18 @@
+.input-field {
+  margin-top: 2rem;
+}
+body {
+  padding: 20%;
+}
+
+i.material-icons {
+  cursor: pointer;
+}
+
+.completed span {
+  text-decoration: line-through;
+}
+
+h1 {
+  font-size: 26px;
+}
